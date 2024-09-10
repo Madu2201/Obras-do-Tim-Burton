@@ -33,9 +33,3 @@ Sinta-se à vontade para contribuir com este projeto! Se você encontrar algum b
 
 **#TimBurton #Cinema #JavaScript #HTML #CSS #WebDev**
 
-**Observações:**
-
-* **Personalize:** Adapte este README para o seu projeto, adicionando mais detalhes, imagens, gifs ou até mesmo um trailer do seu filme favorito de Tim Burton.
-* **Chamada para ação:** Incentive os usuários a contribuírem, seguirem o seu perfil ou a estrelarem o repositório.
-* **Humor:** Use a linguagem de forma descontraída e divertida, refletindo a personalidade de Tim Burton.
-* **Keywords:** Utilize palavras-chave relevantes para facilitar a busca do seu projeto em plataformas como o GitHub.
