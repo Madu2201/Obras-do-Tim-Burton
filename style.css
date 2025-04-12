@@ -53,6 +53,10 @@ section button {
     cursor: pointer; /* Muda o cursor para indicar que é clicável */
 }
 
+section button:hover {
+    background-color: #9d37c5; /* Cor de fundo ao passar o mouse */
+}
+
 /* Estiliza a caixa de resultados da pesquisa */
 .resultados-pesquisa {
     width: 60rem; /* Largura máxima da caixa de resultados */
@@ -61,6 +65,11 @@ section button {
     margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
     padding: 1rem; /* Espaçamento interno */
     border-radius: 0.6rem; /* Borda arredondada */
+}
+
+.resultados-pesquisa p{
+    color: #ffffff; /* Cor do texto */
+    font-size: 1em; /* Tamanho da fonte */
 }
 
 /* Estiliza cada item de resultado */
